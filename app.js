@@ -3,15 +3,16 @@
 
 ///Edit Under This only
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDMjzwqjUk7ZSGjQRmyE0FpG3NVvz2D8ss",
-  authDomain: "facebook-prizescontest.firebaseapp.com",
-  databaseURL: "https://facebook-prizescontest.firebaseio.com",
-  projectId: "facebook-prizescontest",
-  storageBucket: "facebook-prizescontest.appspot.com",
-  messagingSenderId: "752433432979",
-  appId: "1:752433432979:web:98f04e3d18285a4a744066",
-  measurementId: "G-QPHBCRCGKD"
+  apiKey: "AIzaSyAj5XQIX-rqziAJlya0XskjVneq49vcIgA",
+  authDomain: "instafollowers-ecm.firebaseapp.com",
+  databaseURL: "https://instafollowers-ecm.firebaseio.com",
+  projectId: "instafollowers-ecm",
+  storageBucket: "instafollowers-ecm.appspot.com",
+  messagingSenderId: "705899969473",
+  appId: "1:705899969473:web:f055f2c2c583f6e7bc0d40",
+  measurementId: "G-BXWYHC6THG"
 };
  
 ////Do Not Edit Below This
